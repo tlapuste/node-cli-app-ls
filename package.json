@@ -1,0 +1,21 @@
+{
+  "name": "node-cli-app-ls",
+  "version": "0.1.0",
+  "description": "Command line Node App to list directories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nodeclils": "index.js"
+  },
+  "keywords": [
+    "node",
+    "cli"
+  ],
+  "author": "Tudor Lapuste",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
